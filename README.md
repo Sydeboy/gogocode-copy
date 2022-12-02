@@ -5,7 +5,7 @@
 
 ## What is GoGoCode?
 
-我就是要改
+我就是要改!啊哈哈哈哈
 
 [中文 README](README-cn.md)
 
@@ -75,6 +75,7 @@ Try this demo out at our [Playground](https://play.gogocode.io/#code/N4IglgdgDgr
 -   QQ Group：735216094
 
 ## License
-新建一个license
+
+我新建了license
 
 [MIT](LICENSE)
