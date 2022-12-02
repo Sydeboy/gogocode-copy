@@ -5,7 +5,9 @@
 
 ## What is GoGoCode?
 
-我就是要改!啊哈哈哈哈
+这项目只是用来跟Bilibili冯雨老师学习git的使用
+十分感谢冯雨老师，一键三连
+多多支持喔
 
 [中文 README](README-cn.md)
 
